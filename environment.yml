@@ -1,0 +1,9 @@
+name: example-mesh-booleans
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - pip>=19.0
+  - compas>=1.0
+  - compas_view2
+  - compas_cgal
