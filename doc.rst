@@ -2,8 +2,6 @@
 Mesh Booleans CGAL
 ******************
 
-.. sectionauthor:: tom van mele <van.mele@arch.ethz.ch>
-
 .. figure:: image.png
     :figclass: figure
     :class: figure-img img-fluid
@@ -12,7 +10,7 @@ Mesh Booleans CGAL
 
     Create compound shapes from basic geometric primitives using boolean operations.
 
+.. sectionauthor:: tom van mele <van.mele@arch.ethz.ch>
 
 .. literalinclude:: script.py
    :language: python
-   :linenos:
