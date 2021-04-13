@@ -2,7 +2,7 @@
 Mesh Booleans
 ******************
 
-.. figure:: image.png
+.. figure:: mesh-booleans.png
     :figclass: figure
     :class: figure-img img-fluid
 
